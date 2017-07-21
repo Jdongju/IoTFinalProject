@@ -4,7 +4,7 @@ The final Project of Team\#1 by IoT Engineer Course of KOSA
 
 ### Team member
 
-* Mars
+* [Mars](https://github.com/Marsseo)
 * [Lovelyeu](https://github.com/SmileJM)
 * [CMK](https://github.com/cheolmin-Kim)
 * [Doooooongju](https://github.com/Jdongju)
