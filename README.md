@@ -6,10 +6,8 @@ The final Project of Team\#1 by IoT Engineer Course of KOSA
 
 * Mars
 * Lovelyeu
-* CMK
+* [CMK](https://github.com/cheolmin-Kim)
 * [Doooooongju](https://github.com/Jdongju)
-
-
 
 ## 1. 개요
 
