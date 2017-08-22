@@ -8,6 +8,7 @@ The final Project of Team\#1 by IoT Engineer Course of KOSA
 * [Lovelyeu](https://github.com/SmileJM)
 * [CMK](https://github.com/cheolmin-Kim)
 * [Doooooongju](https://github.com/Jdongju)
+* dflksajlk
 
 ## 1. 개요
 
